@@ -1,0 +1,52 @@
+body{
+     text-align: center;
+}
+h1{
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#app{
+    background-color: rgb(56, 118, 96);
+text-align: center;
+}
+#game{
+    background-color: blueviolet;
+}
+.line{
+    height: 6px;
+    background-color: bisque;
+width: 70px;
+margin: 8px auto;
+}
+.carousel{
+    background-color: rgb(10, 72, 10);
+}
+.carousel img{
+    height: 300px;
+    margin-top: 35px;
+    border-radius: 20%;
+}
+.carousel p {
+font-size: 30px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
